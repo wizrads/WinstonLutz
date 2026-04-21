@@ -37,7 +37,6 @@ The 14 portal images correspond to the gantry/collimator/couch combinations in *
    - **TODO #1** — the BB diameter in mm.
    - **TODO #2** — the `Δu` / `Δv` / total per image.
    - **TODO #3** — the magnitude of the 3D shift vector.
-   - **TODO #4** — the TG‑142/TG‑198 tolerance and pass/fail check.
 
 ## Quick start — local Python
 
