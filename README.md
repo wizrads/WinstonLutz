@@ -45,7 +45,6 @@ The 14 portal images correspond to the gantry/collimator/couch combinations in *
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
-unzip Lab_Data_Final.zip           # creates Lab_Data_Final/
 python analyze_fields.py            # end‑to‑end analysis, no TODOs
 # or
 jupyter lab Lab8_WinstonLutz.ipynb  # work through the student version
