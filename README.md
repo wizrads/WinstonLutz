@@ -14,7 +14,7 @@ Both the original MATLAB analysis and a modern Python/Colab version are included
 | `Analyze_Fields.m` | Original MATLAB analysis (hand‑written Low *et al.* formalism with `imfindcircles` + `pinv`). |
 | `WL_plotter.m` | MATLAB helper to overlay the radiation field and BB on an image. |
 | `Coding_Workspace.m` | MATLAB entry point / scratchpad. |
-| `Lab_Data_Final.zip` | 14 `.dcm` portal images (one per WL field in Table 1 of the handout). |
+| `Lab_Data_Final` | A folder of 14 `.dcm` portal images (one per WL field in Table 1 of the handout). |
 
 The 14 portal images correspond to the gantry/collimator/couch combinations in **Table 1** of the handout:
 
